@@ -5,7 +5,6 @@
 <p align="center">
   <img src= File.gif alt="Banner Image">
 </p>
-<h3 align="center">🚀 Data & Business Analyst | AI/ML Enthusiast | </h3>
 </p>
 <hr style="border: 1px solid #ccc;">
 
