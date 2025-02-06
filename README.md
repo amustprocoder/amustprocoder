@@ -12,7 +12,7 @@
 <p align="center">
 <p>🔹📊 Passionate about <b>Data & Business Analytics</b></p> 
   
-<p>🔹👯 I’m looking to collaborate on <b>End to End Data Analysis Project</b> </p>  
+<p>🔹Skilled in identifying <b>Business trends, Optimizing processes, and Making data-driven decisions</b> </p>  
 
 <p>🔹📚 Love solving complex business <b> Problems using Analytical Thinking</b> </p>    
 
