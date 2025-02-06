@@ -14,7 +14,7 @@
   
 <p>🔹👯 I’m looking to collaborate on <b>End to End Data Analysis Project</b> </p>  
 
-<p>🔹📚 Love solving complex business <b> problems using analytical thinking</b> </p>    
+<p>🔹📚 Love solving complex business <b> Problems using Analytical Thinking</b> </p>    
 
 <p>🔹📫 How to reach me <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
 
