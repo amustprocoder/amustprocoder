@@ -11,9 +11,9 @@
 
 <h2 align="center">💡 About Me</h2>
 <p align="center">
-<p>🔹🚀 Passionate about Machine Learning and AI</p> 
+<p>🔹🚀 Passionate about Data & Business Analytics</p> 
   
-<p>🔹💡 Exploring Open Source and Data Analytics</p>  
+<p>🔹💡 Exploring Open Source and AI/ML </p>  
 
 <p>🔹🎯 Currently learning Deep Learning and NLP</p>    
 
