@@ -6,13 +6,9 @@
   <img src= File.gif alt="Banner Image">
 </p>
 <h3 align="center">🚀 Data & Business Analyst | AI/ML Enthusiast | </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 </p>
-## 👋 About Me  
-- 🚀 Passionate about Machine Learning and AI  
-- 💡 Exploring Open Source and Web Development  
-- 🎯 Currently learning Deep Learning and NLP  
-- 📫 Reach me at [your.email@gmail.com](mailto:your.email@gmail.com)  
-
+## 👋** About Me ** 
+🔹🚀 Passionate about Machine Learning and AI  
+🔹💡 Exploring Open Source and Data Analytics 
+🔹🎯 Currently learning Deep Learning and NLP     
+🔹📫 Reach me at [allcodingthings@gmail.com] 
