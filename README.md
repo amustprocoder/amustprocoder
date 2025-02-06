@@ -12,7 +12,7 @@
 <p align="center">
 <p>🔹📊 Passionate about <b>Data & Business Analytics</b></p> 
   
-<p>🔹🚀Skilled in identifying <b>Business trends, Optimizing processes, and Making data-driven decisions</b> </p>  
+<p>🔹🚀Skilled in identifying <b>Business Trends, Optimizing Processes, and Making Data-Driven Decisions</b> </p>  
 
 <p>🔹📚 Love solving complex business <b> Problems using Analytical Thinking</b> </p>    
 
