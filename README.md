@@ -7,4 +7,6 @@
 </p>
 <h3 align="center">🚀 Data & Business Analyst | AI/ML Enthusiast | </h3>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+</p>
