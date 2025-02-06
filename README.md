@@ -10,11 +10,11 @@
 
 <h2 align="center">💡 About Me</h2>
 <p align="center">
-<p>🔹📊 Passionate about <b>Data & Business Analytics</b></p> 
+<p>🔹📊 I'm Passionate about <b>Data & Business Analytics</b></p> 
   
-<p>🔹🚀Skilled in identifying <b>Business Trends, Optimizing Processes, and Making Data-Driven Decisions</b> </p>  
+<p>🔹🚀 I'm Skilled in identifying <b>Business Trends, Optimizing Processes, and Making Data-Driven Decisions</b> </p>  
 
-<p>🔹📚 Love solving complex business <b> Problems using Analytical Thinking</b> </p>    
+<p>🔹📚 I Love solving complex business <b> Problems using Analytical Thinking</b> </p>    
 
 <p>🔹📫 How to reach me <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
 
