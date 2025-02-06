@@ -12,11 +12,11 @@
 <p align="center">
 <p>🔹📊 Passionate about Data & Business Analytics</p> 
   
-<p>🔹🚀 Skilled in identifying business trends, optimizing processes, and making data-driven decisions </p>  
+<p>🔹👯 I’m looking to collaborate on **End to End Data Analysis Project* </p>  
 
-<p>🔹📚 Love solving complex business problems using analytical thinking and storytelling with data</p>    
+<p>🔹📚 Love solving complex business problems using analytical thinking </p>    
 
-<p>🔹📫 Reach me at <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
+<p>🔹📫 How to reach me <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
 
 </p>
 
