@@ -10,11 +10,11 @@
 
 <h2 align="center">💡 About Me</h2>
 <p align="center">
-<p>🔹🚀 Passionate about Data & Business Analytics</p> 
+<p>🔹📊 Passionate about Data & Business Analytics</p> 
   
-<p>🔹💡 Exploring Open Source and AI/ML </p>  
+<p>🔹🚀 Skilled in identifying business trends, optimizing processes, and making data-driven decisions 🚀 </p>  
 
-<p>🔹🎯 Currently learning Deep Learning and NLP</p>    
+<p>🔹📚 Love solving complex business problems using analytical thinking and storytelling with data</p>    
 
 <p>🔹📫 Reach me at [allcodingthings@gmail.com]</p>  
 </p>
