@@ -9,6 +9,7 @@
 <hr style="border: 1px solid #ccc;">
 
 <h2 align="center">💡 About Me</h2>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="220" />
 <p align="center">
 <p>🔹📊 I'm Passionate about <b>Data & Business Analytics</b></p> 
   
