@@ -10,11 +10,11 @@
 
 <h2 align="center">💡 About Me</h2>
 <p align="center">
-<p>🔹📊 Passionate about Data & Business Analytics</p> 
+<p>🔹📊 Passionate about <b>Data & Business Analytics</b></p> 
   
 <p>🔹👯 I’m looking to collaborate on <b>End to End Data Analysis Project</b> </p>  
 
-<p>🔹📚 Love solving complex business problems using analytical thinking </p>    
+<p>🔹📚 Love solving complex business problems using <b> analytical thinking</b> </p>    
 
 <p>🔹📫 How to reach me <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
 
