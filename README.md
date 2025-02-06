@@ -16,6 +16,7 @@
 
 <p>🔹📚 Love solving complex business problems using analytical thinking and storytelling with data</p>    
 
-<p>🔹📫 Reach me at **allcodingthings@gmail.com** </p>  
+<p>🔹📫 Reach me at <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
+
 </p>
 
