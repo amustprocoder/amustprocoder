@@ -8,8 +8,11 @@
 <h3 align="center">🚀 Data & Business Analyst | AI/ML Enthusiast | </h3>
 </p>
 <hr style="border: 1px solid #ccc;">
-## 👋** About Me ** 
+
+<h2 align="center">💡 About Me</h2>
+<p align="center">
 🔹🚀 Passionate about Machine Learning and AI  
 🔹💡 Exploring Open Source and Data Analytics 
 🔹🎯 Currently learning Deep Learning and NLP     
 🔹📫 Reach me at [allcodingthings@gmail.com] 
+</p>
