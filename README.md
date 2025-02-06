@@ -7,6 +7,7 @@
 </p>
 <h3 align="center">🚀 Data & Business Analyst | AI/ML Enthusiast | </h3>
 </p>
+------
 ## 👋** About Me ** 
 🔹🚀 Passionate about Machine Learning and AI  
 🔹💡 Exploring Open Source and Data Analytics 
