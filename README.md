@@ -12,7 +12,11 @@
 <h2 align="center">💡 About Me</h2>
 <p align="center">
 🔹🚀 Passionate about Machine Learning and AI  
+  
 🔹💡 Exploring Open Source and Data Analytics 
-🔹🎯 Currently learning Deep Learning and NLP     
+
+🔹🎯 Currently learning Deep Learning and NLP   
+
 🔹📫 Reach me at [allcodingthings@gmail.com] 
+
 </p>
