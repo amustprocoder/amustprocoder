@@ -12,7 +12,7 @@
 <p align="center">
 <p>🔹📊 Passionate about Data & Business Analytics</p> 
   
-<p>🔹👯 I’m looking to collaborate on **End to End Data Analysis Project** </p>  
+<p>🔹👯 I’m looking to collaborate on <b>End to End Data Analysis Project</b> </p>  
 
 <p>🔹📚 Love solving complex business problems using analytical thinking </p>    
 
