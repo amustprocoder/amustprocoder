@@ -19,4 +19,6 @@
 
 <p>🔹📫 Reach me at [allcodingthings@gmail.com]</p>  
 
+<p>🔹⚡ Fun fact **I'm funny**</p>  
+
 </p>
