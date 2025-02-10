@@ -25,6 +25,10 @@
 <a href="https://www.linkedin.com/in/om-rana-curious/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-pawar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/allcodingthings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshpathe4421" height="30" width="40" /></a>
 </p>
-![Visitor Count](https://komarev.com/ghpvc/?username= amustprocoder &color=blue)
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=amustprocoder&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150">
+  </p>
+
+
+
 
 
