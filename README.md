@@ -11,9 +11,9 @@
 <h2 align="center">💡 About Me</h2>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="220" />
 <p align="center">
-<p>🔹📚 I enjoy solving <b>Business & Product Problems</b> through Analytical Thinking</p>
+<p>🔹📚 I Love solving <b>Business & Product Problems</p>
 
-<p>🔹🚀 Interested in <b>Product Management & Founder’s Office</b> roles where I can build,<br> analyze, and drive impact</p>
+<p>🔹🚀 Interested in <b>Product Management </b> roles where I can build <br> analyze and drive impact</p>
 
 <p>🔹📫 How to reach me <a href="mailto:allcodingthings@gmail.com">allcodingthings@gmail.com</a></p>
 <h3 align="left">Connect with me:</h3>
